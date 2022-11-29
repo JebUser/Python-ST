@@ -1,0 +1,9 @@
+streamlit==1.15.1
+streamlit-option-menu>=0.3.2
+streamlit-authenticator==0.1.5
+fpdf == 1.7.2
+fpdf2==2.6.0
+DateTime>=4.4
+openpyxl>= 3.0.10
+Pillow~=9.3.0
+plotly == 5.11.0
